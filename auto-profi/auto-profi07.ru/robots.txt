@@ -1,0 +1,26 @@
+User-Agent:*
+Disallow:/admin/
+Disallow:/cgi-bin/
+Disallow:/fancybox/
+Disallow:/controllers/
+Disallow:/libs/
+Disallow:/language/
+Disallow:/skins/
+Disallow:/photo/
+Disallow:/docs/
+Disallow:/models/
+Sitemap: http://www.auto-profi07.ru/sitemap.xml
+
+User-Agent: Yandex
+Disallow:/admin/
+Disallow:/cgi-bin/
+Disallow:/fancybox/
+Disallow:/controllers/
+Disallow:/libs/
+Disallow:/language/
+Disallow:/skins/
+Disallow:/photo/
+Disallow:/docs/
+Disallow:/models/
+Clean-param: PHPSESSID
+Host: auto-profi07.ru
